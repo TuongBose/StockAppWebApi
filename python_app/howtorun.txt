@@ -1,0 +1,11 @@
+CMD BASH:
+    pip install pyodbc
+    pip install faker
+
+    python insert_stocks.py
+    python insert_quotes.py
+    python insert_portfolios.py
+    python insert_watchlists.py
+    python insert_orders.py
+    python insert_etfs.py
+    python insert_etf_holdings.py 
