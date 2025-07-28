@@ -1,6 +1,22 @@
 [
   {
     "ContainingType": "StockAppWebApi.Controllers.UserController",
+    "Method": "Login",
+    "RelativePath": "api/User/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginViewModel",
+        "Type": "StockAppWebApi.ViewModels.LoginViewModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StockAppWebApi.Controllers.UserController",
     "Method": "Register",
     "RelativePath": "api/User/register",
     "HttpMethod": "POST",
@@ -10,6 +26,22 @@
       {
         "Name": "registerViewModel",
         "Type": "StockAppWebApi.ViewModels.RegisterViewModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StockAppWebApi.Controllers.WatchListController",
+    "Method": "AddStockToWatchList",
+    "RelativePath": "api/WatchList/addstocktowatchlist/{stockId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "stockId",
+        "Type": "System.Int32",
         "IsRequired": true
       }
     ],

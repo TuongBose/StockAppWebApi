@@ -29,5 +29,19 @@ namespace StockAppWebApi.Controllers
                 return BadRequest(new { Message = ex.Message });
             }
         }
+
+        [HttpPost("login")]
+        public async Task<IActionResult> Login(LoginViewModel loginViewModel)
+        {
+            try
+            {
+                string jwtToken = await _userService.Login(loginViewModel);
+                return Ok(new { jwtToken });
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(new { Message = ex.Message });
+            }
+        }
     }
 }
