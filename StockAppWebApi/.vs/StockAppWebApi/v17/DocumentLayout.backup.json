@@ -3,112 +3,80 @@
   "WorkspaceRootPath": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|d:\\hoctap\\asp.net core\\stockappwebapi\\stockappwebapi\\stockappwebapi\\models\\watchlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|solutionrelative:stockappwebapi\\models\\watchlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|d:\\hoctap\\asp.net core\\stockappwebapi\\stockappwebapi\\stockappwebapi\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|solutionrelative:stockappwebapi\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|d:\\hoctap\\asp.net core\\stockappwebapi\\stockappwebapi\\stockappwebapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|solutionrelative:stockappwebapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|d:\\hoctap\\asp.net core\\stockappwebapi\\stockappwebapi\\stockappwebapi\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|solutionrelative:stockappwebapi\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|d:\\hoctap\\asp.net core\\stockappwebapi\\stockappwebapi\\stockappwebapi\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|solutionrelative:stockappwebapi\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|d:\\hoctap\\asp.net core\\stockappwebapi\\stockappwebapi\\stockappwebapi\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|solutionrelative:stockappwebapi\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|d:\\hoctap\\asp.net core\\stockappwebapi\\stockappwebapi\\stockappwebapi\\services\\watchlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|solutionrelative:stockappwebapi\\services\\watchlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|d:\\hoctap\\asp.net core\\stockappwebapi\\stockappwebapi\\stockappwebapi\\services\\iwatchlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|solutionrelative:stockappwebapi\\services\\iwatchlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|d:\\hoctap\\asp.net core\\stockappwebapi\\stockappwebapi\\stockappwebapi\\repositories\\watchlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|solutionrelative:stockappwebapi\\repositories\\watchlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|d:\\hoctap\\asp.net core\\stockappwebapi\\stockappwebapi\\stockappwebapi\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|solutionrelative:stockappwebapi\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|d:\\hoctap\\asp.net core\\stockappwebapi\\stockappwebapi\\stockappwebapi\\controllers\\watchlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|solutionrelative:stockappwebapi\\controllers\\watchlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|d:\\hoctap\\asp.net core\\stockappwebapi\\stockappwebapi\\stockappwebapi\\filters\\jwtauthorizefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|solutionrelative:stockappwebapi\\filters\\jwtauthorizefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|d:\\hoctap\\asp.net core\\stockappwebapi\\stockappwebapi\\stockappwebapi\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|solutionrelative:stockappwebapi\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|d:\\hoctap\\asp.net core\\stockappwebapi\\stockappwebapi\\stockappwebapi\\models\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|solutionrelative:stockappwebapi\\models\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|d:\\hoctap\\asp.net core\\stockappwebapi\\stockappwebapi\\stockappwebapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|solutionrelative:stockappwebapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|d:\\hoctap\\asp.net core\\stockappwebapi\\stockappwebapi\\stockappwebapi\\controllers\\quotecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|solutionrelative:stockappwebapi\\controllers\\quotecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|d:\\hoctap\\asp.net core\\stockappwebapi\\stockappwebapi\\stockappwebapi\\repositories\\quoterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|solutionrelative:stockappwebapi\\repositories\\quoterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|d:\\hoctap\\asp.net core\\stockappwebapi\\stockappwebapi\\stockappwebapi\\repositories\\iquoterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|solutionrelative:stockappwebapi\\repositories\\iquoterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|d:\\hoctap\\asp.net core\\stockappwebapi\\stockappwebapi\\stockappwebapi\\services\\quoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|solutionrelative:stockappwebapi\\services\\quoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|d:\\hoctap\\asp.net core\\stockappwebapi\\stockappwebapi\\stockappwebapi\\services\\iquoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|solutionrelative:stockappwebapi\\services\\iquoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|d:\\hoctap\\asp.net core\\stockappwebapi\\stockappwebapi\\stockappwebapi\\models\\quote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|solutionrelative:stockappwebapi\\models\\quote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|d:\\hoctap\\asp.net core\\stockappwebapi\\stockappwebapi\\stockappwebapi\\models\\realtimequote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|solutionrelative:stockappwebapi\\models\\realtimequote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|d:\\hoctap\\asp.net core\\stockappwebapi\\stockappwebapi\\stockappwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|solutionrelative:stockappwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|d:\\hoctap\\asp.net core\\stockappwebapi\\stockappwebapi\\stockappwebapi\\controllers\\websocketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|solutionrelative:stockappwebapi\\controllers\\websocketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|d:\\hoctap\\asp.net core\\stockappwebapi\\stockappwebapi\\stockappwebapi\\controllers\\watchlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|solutionrelative:stockappwebapi\\controllers\\watchlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|d:\\hoctap\\asp.net core\\stockappwebapi\\stockappwebapi\\stockappwebapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|solutionrelative:stockappwebapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|d:\\hoctap\\asp.net core\\stockappwebapi\\stockappwebapi\\stockappwebapi\\extensions\\httpcontextextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|solutionrelative:stockappwebapi\\extensions\\httpcontextextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|d:\\hoctap\\asp.net core\\stockappwebapi\\stockappwebapi\\stockappwebapi\\attributes\\jwtauthorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|solutionrelative:stockappwebapi\\attributes\\jwtauthorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|d:\\hoctap\\asp.net core\\stockappwebapi\\stockappwebapi\\stockappwebapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|solutionrelative:stockappwebapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|d:\\hoctap\\asp.net core\\stockappwebapi\\stockappwebapi\\stockappwebapi\\stockappwebapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|solutionrelative:stockappwebapi\\stockappwebapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|d:\\hoctap\\asp.net core\\stockappwebapi\\stockappwebapi\\stockappwebapi\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|solutionrelative:stockappwebapi\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|d:\\hoctap\\asp.net core\\stockappwebapi\\stockappwebapi\\stockappwebapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|solutionrelative:stockappwebapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|d:\\hoctap\\asp.net core\\stockappwebapi\\stockappwebapi\\stockappwebapi\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|solutionrelative:stockappwebapi\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|d:\\hoctap\\asp.net core\\stockappwebapi\\stockappwebapi\\stockappwebapi\\repositories\\iwatchlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|solutionrelative:stockappwebapi\\repositories\\iwatchlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|d:\\hoctap\\asp.net core\\stockappwebapi\\stockappwebapi\\stockappwebapi\\repositories\\istockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|solutionrelative:stockappwebapi\\repositories\\istockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|d:\\hoctap\\asp.net core\\stockappwebapi\\stockappwebapi\\stockappwebapi\\services\\stockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|solutionrelative:stockappwebapi\\services\\stockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|d:\\hoctap\\asp.net core\\stockappwebapi\\stockappwebapi\\stockappwebapi\\repositories\\stockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|solutionrelative:stockappwebapi\\repositories\\stockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|d:\\hoctap\\asp.net core\\stockappwebapi\\stockappwebapi\\stockappwebapi\\services\\istockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|solutionrelative:stockappwebapi\\services\\istockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|d:\\hoctap\\asp.net core\\stockappwebapi\\stockappwebapi\\stockappwebapi\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|solutionrelative:stockappwebapi\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|d:\\hoctap\\asp.net core\\stockappwebapi\\stockappwebapi\\stockappwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|solutionrelative:stockappwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|d:\\hoctap\\asp.net core\\stockappwebapi\\stockappwebapi\\stockappwebapi\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|solutionrelative:stockappwebapi\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|d:\\hoctap\\asp.net core\\stockappwebapi\\stockappwebapi\\stockappwebapi\\services\\stockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF78C7F6-A9BB-4CDE-AA95-4766E06C8141}|StockAppWebApi\\StockAppWebApi.csproj|solutionrelative:stockappwebapi\\services\\stockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -118,358 +86,251 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Stock.cs",
-              "DocumentMoniker": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Models\\Stock.cs",
-              "RelativeDocumentMoniker": "StockAppWebApi\\Models\\Stock.cs",
-              "ToolTip": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Models\\Stock.cs",
-              "RelativeToolTip": "StockAppWebApi\\Models\\Stock.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAD4vzcAAAAaAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "StockAppWebApi\\Services\\OrderService.cs",
+              "ToolTip": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Services\\OrderService.cs",
+              "RelativeToolTip": "StockAppWebApi\\Services\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-28T08:18:57.898Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "WatchListRepository.cs",
-              "DocumentMoniker": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Repositories\\WatchListRepository.cs",
-              "RelativeDocumentMoniker": "StockAppWebApi\\Repositories\\WatchListRepository.cs",
-              "ToolTip": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Repositories\\WatchListRepository.cs",
-              "RelativeToolTip": "StockAppWebApi\\Repositories\\WatchListRepository.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwA0AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-28T09:44:46.473Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IWatchListService.cs",
-              "DocumentMoniker": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Services\\IWatchListService.cs",
-              "RelativeDocumentMoniker": "StockAppWebApi\\Services\\IWatchListService.cs",
-              "ToolTip": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Services\\IWatchListService.cs",
-              "RelativeToolTip": "StockAppWebApi\\Services\\IWatchListService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-28T09:47:41.043Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "WatchListService.cs",
-              "DocumentMoniker": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Services\\WatchListService.cs",
-              "RelativeDocumentMoniker": "StockAppWebApi\\Services\\WatchListService.cs",
-              "ToolTip": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Services\\WatchListService.cs",
-              "RelativeToolTip": "StockAppWebApi\\Services\\WatchListService.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAEwBcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-28T09:47:25.615Z",
+              "WhenOpened": "2025-07-28T19:33:51.395Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Models\\User.cs",
-              "RelativeDocumentMoniker": "StockAppWebApi\\Models\\User.cs",
-              "ToolTip": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Models\\User.cs",
-              "RelativeToolTip": "StockAppWebApi\\Models\\User.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAADgvzUAAAAFAAAAAAAAAA==",
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Services\\IOrderService.cs",
+              "RelativeDocumentMoniker": "StockAppWebApi\\Services\\IOrderService.cs",
+              "ToolTip": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Services\\IOrderService.cs",
+              "RelativeToolTip": "StockAppWebApi\\Services\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T02:51:58.437Z",
+              "WhenOpened": "2025-07-28T19:33:39.075Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "WatchListController.cs",
-              "DocumentMoniker": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Controllers\\WatchListController.cs",
-              "RelativeDocumentMoniker": "StockAppWebApi\\Controllers\\WatchListController.cs",
-              "ToolTip": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Controllers\\WatchListController.cs",
-              "RelativeToolTip": "StockAppWebApi\\Controllers\\WatchListController.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAlwDIAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "StockAppWebApi\\Repositories\\OrderRepository.cs",
+              "ToolTip": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "StockAppWebApi\\Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-28T08:57:35.571Z",
+              "WhenOpened": "2025-07-28T19:33:25.133Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "JwtAuthorizeFilter.cs",
-              "DocumentMoniker": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Filters\\JwtAuthorizeFilter.cs",
-              "RelativeDocumentMoniker": "StockAppWebApi\\Filters\\JwtAuthorizeFilter.cs",
-              "ToolTip": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Filters\\JwtAuthorizeFilter.cs",
-              "RelativeToolTip": "StockAppWebApi\\Filters\\JwtAuthorizeFilter.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAawDYAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Repositories\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "StockAppWebApi\\Repositories\\IOrderRepository.cs",
+              "ToolTip": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Repositories\\IOrderRepository.cs",
+              "RelativeToolTip": "StockAppWebApi\\Repositories\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-28T10:56:59.14Z",
+              "WhenOpened": "2025-07-28T19:33:07.509Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "WatchList.cs",
-              "DocumentMoniker": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Models\\WatchList.cs",
-              "RelativeDocumentMoniker": "StockAppWebApi\\Models\\WatchList.cs",
-              "ToolTip": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Models\\WatchList.cs*",
-              "RelativeToolTip": "StockAppWebApi\\Models\\WatchList.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "StockAppWebApi\\Models\\Order.cs",
+              "ToolTip": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Models\\Order.cs",
+              "RelativeToolTip": "StockAppWebApi\\Models\\Order.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBYAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-28T08:11:04.787Z",
+              "WhenOpened": "2025-07-28T19:26:31.319Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "StockAppWebApi\\Repositories\\UserRepository.cs",
-              "ToolTip": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "StockAppWebApi\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAAAE8AAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T03:16:23.555Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "DataBaseContext.cs",
               "DocumentMoniker": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Models\\DataBaseContext.cs",
               "RelativeDocumentMoniker": "StockAppWebApi\\Models\\DataBaseContext.cs",
               "ToolTip": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Models\\DataBaseContext.cs",
               "RelativeToolTip": "StockAppWebApi\\Models\\DataBaseContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBQAAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-28T09:07:53.085Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Program.cs",
-              "RelativeDocumentMoniker": "StockAppWebApi\\Program.cs",
-              "ToolTip": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Program.cs",
-              "RelativeToolTip": "StockAppWebApi\\Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAlwBEAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T03:41:55.323Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "StockAppWebApi\\Controllers\\UserController.cs",
-              "ToolTip": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Controllers\\UserController.cs",
-              "RelativeToolTip": "StockAppWebApi\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAACUAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T03:08:15.685Z",
+              "WhenOpened": "2025-07-28T14:12:02.697Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "HttpContextExtensions.cs",
-              "DocumentMoniker": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Extensions\\HttpContextExtensions.cs",
-              "RelativeDocumentMoniker": "StockAppWebApi\\Extensions\\HttpContextExtensions.cs",
-              "ToolTip": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Extensions\\HttpContextExtensions.cs",
-              "RelativeToolTip": "StockAppWebApi\\Extensions\\HttpContextExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Title": "RealtimeQuote.cs",
+              "DocumentMoniker": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Models\\RealtimeQuote.cs",
+              "RelativeDocumentMoniker": "StockAppWebApi\\Models\\RealtimeQuote.cs",
+              "ToolTip": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Models\\RealtimeQuote.cs",
+              "RelativeToolTip": "StockAppWebApi\\Models\\RealtimeQuote.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwCoAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-28T11:21:33.625Z",
+              "WhenOpened": "2025-07-28T13:58:07.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QuoteRepository.cs",
+              "DocumentMoniker": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Repositories\\QuoteRepository.cs",
+              "RelativeDocumentMoniker": "StockAppWebApi\\Repositories\\QuoteRepository.cs",
+              "ToolTip": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Repositories\\QuoteRepository.cs",
+              "RelativeToolTip": "StockAppWebApi\\Repositories\\QuoteRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAxwBgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T14:06:25.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IQuoteService.cs",
+              "DocumentMoniker": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Services\\IQuoteService.cs",
+              "RelativeDocumentMoniker": "StockAppWebApi\\Services\\IQuoteService.cs",
+              "ToolTip": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Services\\IQuoteService.cs",
+              "RelativeToolTip": "StockAppWebApi\\Services\\IQuoteService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T13:55:34.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QuoteController.cs",
+              "DocumentMoniker": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Controllers\\QuoteController.cs",
+              "RelativeDocumentMoniker": "StockAppWebApi\\Controllers\\QuoteController.cs",
+              "ToolTip": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Controllers\\QuoteController.cs",
+              "RelativeToolTip": "StockAppWebApi\\Controllers\\QuoteController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAlwDsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T13:48:23.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Quote.cs",
+              "DocumentMoniker": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Models\\Quote.cs",
+              "RelativeDocumentMoniker": "StockAppWebApi\\Models\\Quote.cs",
+              "ToolTip": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Models\\Quote.cs",
+              "RelativeToolTip": "StockAppWebApi\\Models\\Quote.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwCQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T18:47:20.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IQuoteRepository.cs",
+              "DocumentMoniker": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Repositories\\IQuoteRepository.cs",
+              "RelativeDocumentMoniker": "StockAppWebApi\\Repositories\\IQuoteRepository.cs",
+              "ToolTip": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Repositories\\IQuoteRepository.cs",
+              "RelativeToolTip": "StockAppWebApi\\Repositories\\IQuoteRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T14:05:59.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QuoteService.cs",
+              "DocumentMoniker": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Services\\QuoteService.cs",
+              "RelativeDocumentMoniker": "StockAppWebApi\\Services\\QuoteService.cs",
+              "ToolTip": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Services\\QuoteService.cs",
+              "RelativeToolTip": "StockAppWebApi\\Services\\QuoteService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADgvwcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T14:04:51.467Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "JwtAuthorizeAttribute.cs",
-              "DocumentMoniker": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Attributes\\JwtAuthorizeAttribute.cs",
-              "RelativeDocumentMoniker": "StockAppWebApi\\Attributes\\JwtAuthorizeAttribute.cs",
-              "ToolTip": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Attributes\\JwtAuthorizeAttribute.cs",
-              "RelativeToolTip": "StockAppWebApi\\Attributes\\JwtAuthorizeAttribute.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "StockAppWebApi\\Program.cs",
+              "ToolTip": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Program.cs",
+              "RelativeToolTip": "StockAppWebApi\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAlwBwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-28T10:55:34.387Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-28T13:27:01.698Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "StockAppWebApi\\WeatherForecast.cs",
-              "ToolTip": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\WeatherForecast.cs",
-              "RelativeToolTip": "StockAppWebApi\\WeatherForecast.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "WebSocketController.cs",
+              "DocumentMoniker": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Controllers\\WebSocketController.cs",
+              "RelativeDocumentMoniker": "StockAppWebApi\\Controllers\\WebSocketController.cs",
+              "ToolTip": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Controllers\\WebSocketController.cs",
+              "RelativeToolTip": "StockAppWebApi\\Controllers\\WebSocketController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-28T11:01:47.459Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "StockAppWebApi.http",
-              "DocumentMoniker": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi.http",
-              "RelativeDocumentMoniker": "StockAppWebApi\\StockAppWebApi.http",
-              "ToolTip": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi.http",
-              "RelativeToolTip": "StockAppWebApi\\StockAppWebApi.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-07-28T10:59:10.611Z",
+              "WhenOpened": "2025-07-28T13:11:58.003Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Repositories\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "StockAppWebApi\\Repositories\\IUserRepository.cs",
-              "ToolTip": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Repositories\\IUserRepository.cs",
-              "RelativeToolTip": "StockAppWebApi\\Repositories\\IUserRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAvwAsAAAAVAAAAAAAAAA==",
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "StockAppWebApi\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "StockAppWebApi\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T03:15:49.968Z",
+              "WhenOpened": "2025-07-28T13:12:22.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WatchListController.cs",
+              "DocumentMoniker": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Controllers\\WatchListController.cs",
+              "RelativeDocumentMoniker": "StockAppWebApi\\Controllers\\WatchListController.cs",
+              "ToolTip": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Controllers\\WatchListController.cs",
+              "RelativeToolTip": "StockAppWebApi\\Controllers\\WatchListController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T13:12:39.153Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "StockAppWebApi\\Services\\UserService.cs",
-              "ToolTip": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Services\\UserService.cs",
-              "RelativeToolTip": "StockAppWebApi\\Services\\UserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T03:10:33.412Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Services\\IUserService.cs",
-              "RelativeDocumentMoniker": "StockAppWebApi\\Services\\IUserService.cs",
-              "ToolTip": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Services\\IUserService.cs",
-              "RelativeToolTip": "StockAppWebApi\\Services\\IUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T03:09:02.838Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "IWatchListRepository.cs",
-              "DocumentMoniker": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Repositories\\IWatchListRepository.cs",
-              "RelativeDocumentMoniker": "StockAppWebApi\\Repositories\\IWatchListRepository.cs",
-              "ToolTip": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Repositories\\IWatchListRepository.cs",
-              "RelativeToolTip": "StockAppWebApi\\Repositories\\IWatchListRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-28T09:45:09.469Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "IStockRepository.cs",
-              "DocumentMoniker": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Repositories\\IStockRepository.cs",
-              "RelativeDocumentMoniker": "StockAppWebApi\\Repositories\\IStockRepository.cs",
-              "ToolTip": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Repositories\\IStockRepository.cs",
-              "RelativeToolTip": "StockAppWebApi\\Repositories\\IStockRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-28T09:58:50.618Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "StockService.cs",
-              "DocumentMoniker": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Services\\StockService.cs",
-              "RelativeDocumentMoniker": "StockAppWebApi\\Services\\StockService.cs",
-              "ToolTip": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Services\\StockService.cs",
-              "RelativeToolTip": "StockAppWebApi\\Services\\StockService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-28T09:59:09.619Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
               "Title": "StockRepository.cs",
               "DocumentMoniker": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Repositories\\StockRepository.cs",
               "RelativeDocumentMoniker": "StockAppWebApi\\Repositories\\StockRepository.cs",
               "ToolTip": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Repositories\\StockRepository.cs",
               "RelativeToolTip": "StockAppWebApi\\Repositories\\StockRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-28T09:58:36.47Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-28T14:10:36.78Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "IStockService.cs",
-              "DocumentMoniker": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Services\\IStockService.cs",
-              "RelativeDocumentMoniker": "StockAppWebApi\\Services\\IStockService.cs",
-              "ToolTip": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Services\\IStockService.cs",
-              "RelativeToolTip": "StockAppWebApi\\Services\\IStockService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "DocumentIndex": 18,
+              "Title": "StockService.cs",
+              "DocumentMoniker": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Services\\StockService.cs",
+              "RelativeDocumentMoniker": "StockAppWebApi\\Services\\StockService.cs",
+              "ToolTip": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\Services\\StockService.cs",
+              "RelativeToolTip": "StockAppWebApi\\Services\\StockService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-28T09:59:20.518Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\appsettings.json",
-              "RelativeDocumentMoniker": "StockAppWebApi\\appsettings.json",
-              "ToolTip": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\appsettings.json",
-              "RelativeToolTip": "StockAppWebApi\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-26T03:41:56.335Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\ViewModels\\LoginViewModel.cs",
-              "RelativeDocumentMoniker": "StockAppWebApi\\ViewModels\\LoginViewModel.cs",
-              "ToolTip": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\ViewModels\\LoginViewModel.cs",
-              "RelativeToolTip": "StockAppWebApi\\ViewModels\\LoginViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-28T06:18:19.821Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "RegisterViewModel.cs",
-              "DocumentMoniker": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\ViewModels\\RegisterViewModel.cs",
-              "RelativeDocumentMoniker": "StockAppWebApi\\ViewModels\\RegisterViewModel.cs",
-              "ToolTip": "D:\\HocTap\\ASP.NET Core\\StockAppWebApi\\StockAppWebApi\\StockAppWebApi\\ViewModels\\RegisterViewModel.cs",
-              "RelativeToolTip": "StockAppWebApi\\ViewModels\\RegisterViewModel.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAuwAsAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T02:51:02.101Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-28T14:06:39.724Z"
             }
           ]
         }

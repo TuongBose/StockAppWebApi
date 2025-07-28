@@ -30,6 +30,10 @@ builder.Services.AddScoped<IWatchListService, WatchListService>();
 builder.Services.AddScoped<IStockRepository, StockRepository>();
 builder.Services.AddScoped<IStockService, StockService>();
 
+// Quote
+builder.Services.AddScoped<IQuoteRepository, QuoteRepository>();
+builder.Services.AddScoped<IQuoteService, QuoteService>();
+
 // Filter
 builder.Services.AddScoped<JwtAuthorizeFilter>();
 
@@ -61,5 +65,11 @@ app.UseAuthorization();
 app.UseAuthentication();
 
 app.MapControllers();
+
+var webSocketOptions = new WebSocketOptions
+{
+    KeepAliveInterval = TimeSpan.FromSeconds(2),
+};
+app.UseWebSockets(webSocketOptions);
 
 app.Run();

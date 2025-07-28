@@ -1,5 +1,63 @@
 [
   {
+    "ContainingType": "StockAppWebApi.Controllers.QuoteController",
+    "Method": "GetHistoricalQuotes",
+    "RelativePath": "api/Quote/historical",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "days",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "stockId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StockAppWebApi.Controllers.QuoteController",
+    "Method": "GetRealtimeQuotes",
+    "RelativePath": "api/Quote/ws",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "page",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "limit",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "sector",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "industry",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "StockAppWebApi.Controllers.UserController",
     "Method": "Login",
     "RelativePath": "api/User/login",
@@ -46,5 +104,21 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StockAppWebApi.Controllers.WebSocketController",
+    "Method": "Get",
+    "RelativePath": "api/ws",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
   }
 ]
