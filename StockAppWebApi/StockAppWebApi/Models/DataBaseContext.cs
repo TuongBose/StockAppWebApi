@@ -12,6 +12,7 @@ namespace StockAppWebApi.Models
         public DbSet<RealtimeQuote> RealtimeQuotes { get; set; }
         public DbSet<Quote> Quotes { get; set; }
         public DbSet<Order> Orders { get; set; }
+        public DbSet<CoveredWarrant> CoveredWarrants { get; set; }
 
         // Optional: Fluent API configuration
         protected override void OnModelCreating(ModelBuilder modelBuilder)

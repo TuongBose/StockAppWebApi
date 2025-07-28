@@ -1,5 +1,37 @@
 [
   {
+    "ContainingType": "StockAppWebApi.Controllers.CoveredWarrantController",
+    "Method": "GetCoveredWarrantsByStockId",
+    "RelativePath": "api/CoveredWarrant/stock/{stockId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "stockId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StockAppWebApi.Controllers.OrderController",
+    "Method": "PlaceOrder",
+    "RelativePath": "api/Order/place-order",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "orderViewModel",
+        "Type": "StockAppWebApi.ViewModels.OrderViewModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "StockAppWebApi.Controllers.QuoteController",
     "Method": "GetHistoricalQuotes",
     "RelativePath": "api/Quote/historical",

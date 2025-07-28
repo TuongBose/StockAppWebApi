@@ -34,6 +34,14 @@ builder.Services.AddScoped<IStockService, StockService>();
 builder.Services.AddScoped<IQuoteRepository, QuoteRepository>();
 builder.Services.AddScoped<IQuoteService, QuoteService>();
 
+// Order
+builder.Services.AddScoped<IOrderRepository, OrderRepository>();
+builder.Services.AddScoped<IOrderService, OrderService>();
+
+// CoveredWarrant
+builder.Services.AddScoped<ICWRepository, CWRepository>();
+builder.Services.AddScoped<ICWService, CWService>();
+
 // Filter
 builder.Services.AddScoped<JwtAuthorizeFilter>();
 
